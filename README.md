@@ -1,4 +1,4 @@
-![Logo](Logo.png)
+![Logo](Logo.png){:height="10%" width="10%"}
 
 # Machine Learning for Life Sciences
 
