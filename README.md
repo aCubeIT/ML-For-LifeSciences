@@ -1,5 +1,3 @@
-![Logo](Logo.png){:height="10%" width="10%"}
-
 # Machine Learning for Life Sciences
 
 Deep Learning for Life Sciences course by aCubeIT.
@@ -27,3 +25,5 @@ By Eklavya Sarkar.
 - Libraries (Numpy)
 
 by Vidya Kurada.
+
+![Logo](Logo.png)
