@@ -25,5 +25,3 @@ By Eklavya Sarkar.
 - Libraries (Numpy)
 
 by Vidya Kurada.
-
-![Logo](Logo.png)
