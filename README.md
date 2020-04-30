@@ -24,4 +24,4 @@ By Eklavya Sarkar.
 - Broadcasting
 - Libraries (Numpy)
 
-by Vidya Kurada.
+By Vidya Kurada.
