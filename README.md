@@ -1,3 +1,5 @@
+![Logo](Logo.png)
+
 # Machine Learning for Life Sciences
 
 Deep Learning for Life Sciences course by aCubeIT.
